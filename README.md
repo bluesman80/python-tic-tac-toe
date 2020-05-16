@@ -9,11 +9,11 @@ The program does the following.
 3. Ends the game when someone wins or there is a draw.
 
 Suppose the bottom left cell has the coordinates (1, 1) and the top right cell has the coordinates (3, 3) like in this table:
-
+<pre>
 (1, 3) (2, 3) (3, 3)
 (1, 2) (2, 2) (3, 2)
 (1, 1) (2, 1) (3, 1)
-
+</pre>
 ## Example
 The example below shows how your program should work.
 The greater-than symbol followed by space (> ) represents the user input. Notice that it's not the part of the input.
